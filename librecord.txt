@@ -1,0 +1,5 @@
+
+21	pencil	natraj	10	8 	
+56	watch	sonata	500	10 	
+3	laptop	acer	5000	1 	
+12	pen	parker	50	9	
