@@ -337,7 +337,7 @@ cout<<"\n\tYOU HAVE TO PAY rs "<<(product.price*k);
 		fclose(fp);
 	}
 
-												//FUNCTION FOR EXIT
+												//FUNCTION TRIGGER ON EXITING
 			void Exit()
 	{
 			 system("clear");
