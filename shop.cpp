@@ -325,7 +325,7 @@ while(fscanf(f,"%d%s%s%d%d",&product.bid,product.pname,product.brand,&product.pr
 					return;
 								}*/
 cout<<"\n\tYOU HAVE TO PAY rs "<<(product.price*k);
-						cout<<"\n\tTHE PRODUCT IS SOLD";
+						cout<<"\n\tWHEN THE PRODUCT IS SOLD";
 						
 
 		fprintf(fp,"\n%d\t%s\t%s\t%d\t%d\t",product.bid,product.pname,product.brand,product.price,product.status);
