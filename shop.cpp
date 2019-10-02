@@ -134,7 +134,7 @@
 					}
 		}
 
-									//FUNCTION TO DISPLAY ALL INFORMATION
+									//FUNCTION TO DISPLAY ALL INFORMATION ABOUT PRODUCT
 
 				void Displayproduct()
 	{
