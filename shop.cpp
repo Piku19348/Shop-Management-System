@@ -25,7 +25,7 @@
 			  char brand[25];
 			  int  price;
         		  int  status;
-					}product;
+		}product;
 
 			class memb
 		{
@@ -34,7 +34,7 @@
 				char mname[25] ;
 				char job[25];
 	  			long phno;
-					}membr;
+		}membr;
 
 
 							//file pointers for initializing the files that are used in the program
