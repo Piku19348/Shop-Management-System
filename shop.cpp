@@ -37,7 +37,7 @@
 					}membr;
 
 
-							//file pointers for initializing the files used in the program
+							//file pointers for initializing the files that are used in the program
 
 	FILE *librecord;
 
